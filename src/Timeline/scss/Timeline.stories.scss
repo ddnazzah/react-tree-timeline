@@ -1,0 +1,32 @@
+.wrapper {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background: rgb(10, 25, 47) !important;
+}
+
+.title {
+    margin-top: 0;
+    margin-bottom: 10px !important;
+    color: #ccd6f6;
+}
+
+.date {
+    color: #8892b0;
+}
+
+.date::after {
+    background-color: rgb(100, 255, 218) !important;
+}
+
+.description {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #8892b0;
+}
+
+.timeline::before {
+    border-radius: 2px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
