@@ -2,7 +2,7 @@
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/online-storage-8b52c.appspot.com/o/react-tree-timeline%2FScreenshot.png?alt=media&token=dbab7d63-1a56-42a1-ad39-70b6e32b1782)
 
-This is a simple but fully customable react component which you can you in your website for displaying timelines.
+This is a simple but fully customizable react component which you can use on your website for displaying timelines.
 
 ## Installation
 

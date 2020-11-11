@@ -1,7 +1,7 @@
 {
     "name": "react-tree-timeline",
-    "version": "1.0.1",
-    "description": "A react component to display Timeline and other events in a tree like manner.",
+    "version": "1.0.2",
+    "description": "This is a simple but fully customizable react component which you can use on your website for displaying timelines.",
     "main": "build/index.js",
     "scripts": {
         "test": "jest",
